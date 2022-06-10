@@ -1,6 +1,6 @@
 /**
  * @name AutoImportDeps
- * @description 按需加载，自动引入
+ * @description vue组件中自动导入 composition api
  */
 import AutoImport from 'unplugin-auto-import/vite';
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers';
